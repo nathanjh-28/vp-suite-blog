@@ -1,17 +1,15 @@
 ---
 layout: page
-nav_exclude: true
-
 ---
 
-## User Stories
+### User Stories
 Example: “As a [user role], I want to [do something] so that I can [achieve a goal].”
 
-### Admin User
+#### Admin User
 
 As an Admin User I would like to manage user accounts so that my clients and collaborators don’t have to and I can view the application as if I was logged in to their user account.
 
-### Producer User
+#### Producer User
 
 As a Producer, I want to login and view all the projects in progress at a glance and quickly see what the next steps are for each project.
 
@@ -27,7 +25,7 @@ As a producer, I want my client to see a shooting schedule when they log in to t
 
 As a producer, I want my client to see the status of their project including their deliverables and provide feedback and approval for each video so that we are on the same page.
 
-### Client User
+#### Client User
 
 As a client user I want to easily view the progress on our project and provide feedback in a painless and easy manner.
 
@@ -35,7 +33,7 @@ As a client user I want to view and edit shooting schedules and other shared com
 
 Bonus, as a client user I can view invoices and make payments.
 
-### Editor User
+#### Editor User
 
 As an Editor I want to easily view all the projects assigned to me as well as update their status and provide notes as needed in a quick and pain free manner.
 
