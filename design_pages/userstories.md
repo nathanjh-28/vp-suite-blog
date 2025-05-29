@@ -1,8 +1,8 @@
 ---
 layout: page
+title: User Stories
 ---
 
-### User Stories
 Example: “As a [user role], I want to [do something] so that I can [achieve a goal].”
 
 #### Admin User

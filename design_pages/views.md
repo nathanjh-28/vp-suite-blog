@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Views
 ---
-
-### Views
 
 The following is a start to some of the views incorporated in to the application based on the original materials reviewed.  In addition to these views, basic CRUD views will be incorporated.
 

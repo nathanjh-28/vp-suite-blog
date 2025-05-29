@@ -29,6 +29,11 @@ url: "nathanjh-28.github.io/" # the base hostname & protocol for your site, e.g.
 twitter_username: 
 github_username:  nathanjh-28
 
+header_pages:
+  - about.md
+  - design.md
+  - posts.md
+
 # Build settings
 theme: minima
 plugins:
