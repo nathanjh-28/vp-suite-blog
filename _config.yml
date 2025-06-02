@@ -33,6 +33,7 @@ header_pages:
   - about.md
   - design.md
   - posts.md
+  - proposal.md
 
 # Build settings
 theme: minima
