@@ -11,6 +11,8 @@ As part of my project, I intend to build planning documentation to build the ent
 
 ### [Database]({{ site.baseurl }}/design_pages/database_design)
 
+### [API Endpoints]({{ site.baseurl }}/api-endpoints)
+
 ### [Views]({{ site.baseurl }}/design_pages/views)
 
 ## Professional Development Course Docs:
