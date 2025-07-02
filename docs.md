@@ -21,7 +21,7 @@ The documents are required for the project development course in addition to the
 ### [Project Proposal]({{ site.baseurl }}/proposal)
 A Proposal that includes a description of my project and learning goals for the class while stating how this will grow my professional skills while also addressing the challenges, risks, and mitigation of the project.
 
-### Interim Report
+### [Project Update Report]({{ site.baseurl }}/project-update-report)
 A mid course update.
 
 ### Final Report
