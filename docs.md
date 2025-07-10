@@ -7,13 +7,21 @@ permalink: /docs/
 ## Project Planning Docs:
 As part of my project, I intend to build planning documentation to build the entire app.  This will serve as a roadmap once the professional development course is complete while also increasing my exposure to serving clients.
 
-### [User Stories]({{ site.baseurl }}/design_pages/userstories)
+- **[ReadMe - Project Overview]({{ site.baseurl }}/design_pages/overview)**
 
-### [Database]({{ site.baseurl }}/design_pages/database_design)
+- [User Stories]({{ site.baseurl }}/design_pages/userstories)
 
-### [API Endpoints]({{ site.baseurl }}/api-endpoints)
+- [Features List]({{ site.baseurl }}/design_pages/features)
 
-### [Views]({{ site.baseurl }}/design_pages/views)
+- [Views and Wireframes]({{ site.baseurl }}/design_pages/views)
+
+- [Database Design]({{ site.baseurl }}/design_pages/database_design)
+
+- [API Endpoints]({{ site.baseurl }}/api-endpoints)
+
+- [Testing Strategy]({{ site.baseurl }}/design_pages/testing-strategy)
+
+- [Deployment Plan]({{ site.baseurl }}/design_pages/deployment)
 
 ## Professional Development Course Docs:
 The documents are required for the project development course in addition to the weekly progress reports.
