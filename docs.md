@@ -32,5 +32,5 @@ A Proposal that includes a description of my project and learning goals for the 
 ### [Project Update Report]({{ site.baseurl }}/project-update-report)
 A mid course update.
 
-### Final Report
+### [Final Report]({{ site.baseurl }}/final-project-report)
 
