@@ -11,7 +11,7 @@ As part of my project, I intend to build planning documentation to build the ent
 
 - [User Stories]({{ site.baseurl }}/design_pages/userstories)
 
-- [Features List]({{ site.baseurl }}/design_pages/features)
+<!-- - [Features List]({{ site.baseurl }}/design_pages/features) -->
 
 - [Views and Wireframes]({{ site.baseurl }}/design_pages/views)
 
@@ -19,9 +19,9 @@ As part of my project, I intend to build planning documentation to build the ent
 
 - [API Endpoints]({{ site.baseurl }}/api-endpoints)
 
-- [Testing Strategy]({{ site.baseurl }}/design_pages/testing-strategy)
+<!-- - [Testing Strategy]({{ site.baseurl }}/design_pages/testing-strategy) -->
 
-- [Deployment Plan]({{ site.baseurl }}/design_pages/deployment)
+<!-- - [Deployment Plan]({{ site.baseurl }}/design_pages/deployment) -->
 
 ## Professional Development Course Docs:
 The documents are required for the project development course in addition to the weekly progress reports.
@@ -33,4 +33,4 @@ A Proposal that includes a description of my project and learning goals for the 
 A mid course update.
 
 ### [Final Report]({{ site.baseurl }}/final-project-report)
-
+A final report and reflection on progress and metrics for the project.

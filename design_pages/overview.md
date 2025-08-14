@@ -81,8 +81,6 @@ The Invoice entity will keep track of projects invoice status as well as multipl
 
 Just like with template tasks, template invoices will mirror invoices and link to a project type.
 
-For a detailed list of Features, Epics and Themes [click here]({{ site.baseurl }}/design_pages/features)
-
 ### Views
 Views will be separated out by user privileges and objectives.  The overall style of the application will be clean and minimal and work seamlessly across desktop and mobile devices.  All interfaces maintain a consistent navigation and styling while also optimized for each user's workflow.
 
@@ -120,21 +118,25 @@ For a full list of the API endpoints [click here]({{ site.baseurl }}/api-endpoin
 ### Testing Strategy
 Utilizing practical test driven development, testing rests on a wide foundation of back end unit tests for the business logic of the application.  Integration tests  cover the API and database functionality as well as user authorization and authentication tests to ensure that a user has access to the proper resources.  Some of the testing frameworks used are xUnit for .NET Core, Jest for React.  Finally, end to end tests will cover complete user workflows.
 
-For a full breakdown of Testing Strategy [click here]({{ site.baseurl }}/testing-strategy)
 
+### Deployment
+Utilizing a Continuous Integration and Delivery Pipeline, the application is deployed and maintained using Docker Containers, GitHub Actions, GitHub Registry, and Render.com.
 
-### Deployment Plan
+Upon updates to the remote repository, a GitHub Action is triggered which creates a Docker Container with the application running within it.  All tests run on the application in the container and if they pass a copy of the prebuilt container is stored in GitHub Registry.  For Deployment, Render.com retrieves the prebuilt container and deploys it on their platform.
+
+The React front end application is deployed using Vercel and Vite framework.
+
 <!-- TBD
 
 containers, CI/CD, AWS?
 
 For a full breakdown of deployment [click here]({{ site.baseurl }}/deployment) -->
 
-### Architecture / System Design
+<!-- ### Architecture / System Design -->
 
-### How to use the Application
+<!-- ### How to use the Application -->
 
-### Conclusion
+<!-- ### Conclusion -->
 <!-- Focus on Best Practices across all aspects of code.  Hoping to leverage AI tools while still building an in depth project with a deep understanding. -->
 
 <!-- ## Getting Started -->
