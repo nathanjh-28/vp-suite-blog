@@ -12,3 +12,7 @@ My name is Nathan Harris and I am finishing up a 2nd Bachelors degree in Compute
 
 ### Why Blog at all?
 "What is measured is managed."  In addition to being a requirement for my professional development course, I am hoping to learn by documenting my progress as well as use this space to communicate and gain feedback from peers and potential users.
+
+### Visit the Project
+#### [Github Repo](https://github.com/nathanjh-28/Video-Project-Suite)
+#### [App](https://video-project-suite.vercel.app/)
